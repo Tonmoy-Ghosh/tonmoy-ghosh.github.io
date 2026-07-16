@@ -6,4 +6,4 @@ This is a live website hosted directly from a GitHub Markdown file!
 * I like coding.
 * I love simple web design.
 
-![Tonmoy Ghosh](./headshot_Tonmoy-Ghosh)
+![Tonmoy Ghosh](headshot_Tonmoy-Ghosh.jpeg)
