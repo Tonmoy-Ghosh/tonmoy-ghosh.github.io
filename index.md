@@ -12,4 +12,4 @@ This is a live website hosted directly from a GitHub Markdown file!
 * I like coding.
 * I love simple web design.
 
-![Tonmoy Ghosh](headshot_Tonmoy-Ghosh.jpeg)
+![Tonmoy Ghosh](headshot_Tonmoy-Ghosh.jpeg){:width="150px" height="150px"}
