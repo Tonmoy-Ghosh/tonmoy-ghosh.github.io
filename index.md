@@ -1,5 +1,11 @@
 # Welcome to My Website
 
+[Home](index.md) | [About](about.md)
+
+---
+
+This is my homepage. Writing in Markdown is much faster than HTML!
+
 This is a live website hosted directly from a GitHub Markdown file!
 
 ## About Me
